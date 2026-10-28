@@ -1,0 +1,560 @@
+[
+ {
+  "date": "1821-03-29",
+  "kind": "event",
+  "title": "The Revolution, March 1821",
+  "text": "Mani rises on 29 March 1821. Within weeks the Peloponnese, Roumeli and the islands are in revolt.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1821-05-24",
+  "kind": "battle",
+  "title": "Valtetsi, 24–25 May 1821",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   288.1,
+   1101.8
+  ],
+  "set15": 59
+ },
+ {
+  "date": "1821-10-05",
+  "kind": "battle",
+  "title": "Tripolitsa falls, 5 October 1821",
+  "text": "The capital of the Morea is stormed after a five-month siege. Black rings: fortresses still held by the Ottomans.",
+  "win": "Greek victory",
+  "xy": [
+   295.1,
+   1103.1
+  ],
+  "set15": 52
+ },
+ {
+  "date": "1822-08-07",
+  "kind": "battle",
+  "title": "Dervenakia, 7–8 August 1822",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   329.4,
+   1073.0
+  ],
+  "set15": 111
+ },
+ {
+  "date": "1822-12-12",
+  "kind": "battle",
+  "title": "Nafplio, 12 December 1822",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   334.0,
+   1098.6
+  ],
+  "set15": 120
+ },
+ {
+  "date": "1824-07-03",
+  "kind": "battle",
+  "title": "Psara, July 1824",
+  "text": "",
+  "win": "Ottoman victory",
+  "xy": [
+   576.0,
+   992.3
+  ],
+  "set15": 136
+ },
+ {
+  "date": "1825-06-01",
+  "kind": "battle",
+  "title": "Maniaki, 1 June 1825",
+  "text": "Ibrahim Pasha's Egyptian army defeats Papaflessas. Messenia falls, and by the end of 1825 most of the Morea.",
+  "win": "Egyptian victory",
+  "xy": [
+   235.9,
+   1152.1
+  ],
+  "set15": 150
+ },
+ {
+  "date": "1826-04-23",
+  "kind": "battle",
+  "title": "The Exodus of Missolonghi, 22–23 April 1826",
+  "text": "After a year's siege the defenders break out; few survive. Western Roumeli is lost, and Athens falls in August.",
+  "win": "Ottoman–Egyptian victory",
+  "xy": [
+   216.9,
+   1003.9
+  ],
+  "set15": 161
+ },
+ {
+  "date": "1826-11-30",
+  "kind": "battle",
+  "title": "Arachova, November–December 1826",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   316.5,
+   996.2
+  ],
+  "set15": 170
+ },
+ {
+  "date": "1827-05-06",
+  "kind": "battle",
+  "title": "Phaleron, 6 May 1827",
+  "text": "",
+  "win": "Ottoman victory",
+  "xy": [
+   414.1,
+   1057.0
+  ],
+  "set15": 180
+ },
+ {
+  "date": "1827-10-20",
+  "kind": "event",
+  "title": "Navarino, 20 October 1827",
+  "text": "British, French and Russian squadrons destroy the Ottoman–Egyptian fleet. A French army lands in 1828 and Ibrahim leaves the Morea.",
+  "win": "",
+  "xy": [
+   232.7,
+   1165.3
+  ],
+  "set15": null
+ },
+ {
+  "date": "1829-09-24",
+  "kind": "battle",
+  "title": "Petra, 24 September 1829",
+  "text": "The last battle of the war: the Ottoman force capitulates and leaves eastern Roumeli.",
+  "win": "Greek victory",
+  "xy": [
+   359.0,
+   1006.1
+  ],
+  "set15": 191
+ },
+ {
+  "date": "1830-02-03",
+  "kind": "treaty",
+  "title": "The London Protocol, 3 February 1830",
+  "text": "Britain, France and Russia declare Greece independent, within a smaller line, from the Achelous to the Spercheios (dashed).",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1832-08-30",
+  "kind": "treaty",
+  "title": "The Kingdom of Greece, 1832",
+  "text": "The Arta–Volos line is agreed with the Porte. Athens, Euboea and Lamia are handed over in 1833.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1854-03-15",
+  "kind": "event",
+  "title": "The risings of 1854",
+  "text": "During the Crimean War, bands led by Greek officers rise in Epirus, Thessaly and Macedonia (orange). Britain and France occupy Piraeus (1854–57).",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1864-06-02",
+  "kind": "treaty",
+  "title": "The Ionian Islands, 2 June 1864",
+  "text": "Britain gives up its protectorate, and the Ionian Islands join Greece.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1881-07-06",
+  "kind": "treaty",
+  "title": "Thessaly and Arta, 1881",
+  "text": "After the Berlin Conference, the Convention of Constantinople cedes Thessaly and the Arta district.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1897-04-27",
+  "kind": "battle",
+  "title": "Velestino, April–May 1897",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   333.9,
+   896.9
+  ],
+  "set15": 256
+ },
+ {
+  "date": "1897-05-17",
+  "kind": "battle",
+  "title": "Domokos, 17 May 1897",
+  "text": "The Army is beaten. Thessaly stays under Ottoman occupation until 1898, and Greece cedes small border strips (not drawn).",
+  "win": "Ottoman victory",
+  "xy": [
+   294.3,
+   923.5
+  ],
+  "set15": 262
+ },
+ {
+  "date": "1898-12-21",
+  "kind": "event",
+  "title": "The Cretan State, December 1898",
+  "text": "Crete becomes autonomous, with Prince George of Greece as High Commissioner. Samos has been a principality since 1834.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1912-10-22",
+  "kind": "battle",
+  "title": "Sarantaporo, 22–23 October 1912",
+  "text": "The First Balkan War. The Army forces the pass into Macedonia; Thessaloniki surrenders on 8 November, and the fleet takes the islands.",
+  "win": "Greek victory",
+  "xy": [
+   276.1,
+   822.1
+  ],
+  "set15": 281
+ },
+ {
+  "date": "1912-11-02",
+  "kind": "battle",
+  "title": "Giannitsa, 1–2 November 1912",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   309.2,
+   740.0
+  ],
+  "set15": 283
+ },
+ {
+  "date": "1912-12-16",
+  "kind": "battle",
+  "title": "Elli, 16 December 1912",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   619.2,
+   826.8
+  ],
+  "set15": 294
+ },
+ {
+  "date": "1913-03-06",
+  "kind": "battle",
+  "title": "Bizani, 5–6 March 1913",
+  "text": "The fortress line falls and Ioannina surrenders; the Army moves on into Northern Epirus.",
+  "win": "Greek victory",
+  "xy": [
+   170.8,
+   868.9
+  ],
+  "set15": 298
+ },
+ {
+  "date": "1913-07-03",
+  "kind": "battle",
+  "title": "Kilkis–Lachanas, 2–4 July 1913",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   348.4,
+   718.9
+  ],
+  "set15": 301
+ },
+ {
+  "date": "1913-07-24",
+  "kind": "battle",
+  "title": "Kresna Gorge, 21–31 July 1913",
+  "text": "The Second Balkan War ends. The Treaty of Bucharest (10 August) fixes the border on the Nestos.",
+  "win": "indecisive",
+  "xy": [
+   374.6,
+   629.7
+  ],
+  "set15": 304
+ },
+ {
+  "date": "1913-12-14",
+  "kind": "treaty",
+  "title": "Crete and Epirus, 1913",
+  "text": "Crete is united with Greece; the Treaty of Athens with the Ottoman Empire confirms Epirus and Macedonia.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1914-02-28",
+  "kind": "event",
+  "title": "The islands and Northern Epirus, 1914",
+  "text": "The Powers award the eastern Aegean islands to Greece and Northern Epirus to Albania. The Greek Army withdraws; the Epirotes declare autonomy.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1916-08-22",
+  "kind": "event",
+  "title": "The occupation of Eastern Macedonia, 1916",
+  "text": "During the National Schism, Bulgarian and German troops occupy the land east of the Strymon, until October 1918.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1918-05-30",
+  "kind": "battle",
+  "title": "Skra-di-Legen, 30 May 1918",
+  "text": "",
+  "win": "Greek–French victory",
+  "xy": [
+   311.8,
+   706.8
+  ],
+  "set15": 311
+ },
+ {
+  "date": "1919-05-15",
+  "kind": "battle",
+  "title": "Smyrna, 15 May 1919",
+  "text": "The Greek Army lands with Allied approval, and within weeks holds the coast and the valleys inland.",
+  "win": "",
+  "xy": [
+   713.7,
+   1003.5
+  ],
+  "set15": 319
+ },
+ {
+  "date": "1920-07-08",
+  "kind": "battle",
+  "title": "The summer offensive, 1920",
+  "text": "The Army reaches Prusa, Uşak and the Sea of Marmara, and occupies Eastern Thrace.",
+  "win": "Greek victory",
+  "xy": [
+   786.5,
+   937.1
+  ],
+  "set15": 329
+ },
+ {
+  "date": "1920-08-10",
+  "kind": "treaty",
+  "title": "The Treaty of Sèvres, 10 August 1920",
+  "text": "Eastern Thrace, Imbros and Tenedos are awarded to Greece, and the Smyrna zone (dashed) goes under Greek administration. It is never ratified.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1921-03-31",
+  "kind": "battle",
+  "title": "İnönü, January and March 1921",
+  "text": "",
+  "win": "Turkish victory",
+  "xy": [
+   964.2,
+   837.0
+  ],
+  "set15": 334
+ },
+ {
+  "date": "1921-07-19",
+  "kind": "battle",
+  "title": "Kütahya–Eskişehir, July 1921",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   997.2,
+   843.9
+  ],
+  "set15": 339
+ },
+ {
+  "date": "1921-09-05",
+  "kind": "battle",
+  "title": "The Sakarya, 23 August – 13 September 1921",
+  "text": "The offensive fails less than 100 km from Ankara, and the Army falls back to the Eskişehir–Afyon Karahisar line.",
+  "win": "Turkish victory",
+  "xy": [
+   1135.4,
+   856.3
+  ],
+  "set15": 340
+ },
+ {
+  "date": "1922-08-30",
+  "kind": "battle",
+  "title": "Dumlupınar, 26–30 August 1922",
+  "text": "The front breaks. Within three weeks the Army has left Asia Minor, and Smyrna burns.",
+  "win": "Turkish victory",
+  "xy": [
+   968.2,
+   936.6
+  ],
+  "set15": 347
+ },
+ {
+  "date": "1922-10-15",
+  "kind": "treaty",
+  "title": "Mudanya, October 1922",
+  "text": "Greece agrees to leave Eastern Thrace, and the Army withdraws behind the Evros.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1923-07-24",
+  "kind": "treaty",
+  "title": "The Treaty of Lausanne, 24 July 1923",
+  "text": "Eastern Thrace, Imbros and Tenedos go to Turkey; Western Thrace and the eastern Aegean islands stay Greek.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1923-08-31",
+  "kind": "event",
+  "title": "Corfu, August–September 1923",
+  "text": "Italy occupies the island for four weeks after an Italian general is murdered on the Albanian border.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1925-10-22",
+  "kind": "battle",
+  "title": "Petrich, October 1925",
+  "text": "",
+  "win": "indecisive",
+  "xy": [
+   377.0,
+   677.4
+  ],
+  "set15": 351
+ },
+ {
+  "date": "1940-10-28",
+  "kind": "battle",
+  "title": "28 October 1940",
+  "text": "Italy invades from Albania. In the Pindus and on the Kalamas the attack is held and thrown back; by December the Army holds a quarter of Albania.",
+  "win": "Greek victory",
+  "xy": [
+   190.9,
+   823.2
+  ],
+  "set15": 355
+ },
+ {
+  "date": "1940-11-22",
+  "kind": "battle",
+  "title": "Morava–Ivan, November 1940",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   179.4,
+   758.4
+  ],
+  "set15": 357
+ },
+ {
+  "date": "1941-01-10",
+  "kind": "battle",
+  "title": "Klisura, January 1941",
+  "text": "",
+  "win": "Greek victory",
+  "xy": [
+   119.5,
+   785.3
+  ],
+  "set15": 363
+ },
+ {
+  "date": "1941-04-06",
+  "kind": "battle",
+  "title": "Rupel, 6–9 April 1941",
+  "text": "Germany attacks from Bulgaria. The forts hold, but are outflanked through Yugoslavia; Athens falls on 27 April.",
+  "win": "Greek victory",
+  "xy": [
+   388.6,
+   680.9
+  ],
+  "set15": 371
+ },
+ {
+  "date": "1941-05-21",
+  "kind": "battle",
+  "title": "Crete, 20 May – 1 June 1941",
+  "text": "German paratroops land at Maleme. The island falls, and the occupation of Greece is complete.",
+  "win": "German victory",
+  "xy": [
+   421.1,
+   1325.4
+  ],
+  "set15": 378
+ },
+ {
+  "date": "1941-06-15",
+  "kind": "event",
+  "title": "The Triple Occupation, 1941–44",
+  "text": "German, Italian and Bulgarian zones; Bulgaria annexes most of Eastern Macedonia and Western Thrace.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1944-10-12",
+  "kind": "event",
+  "title": "Liberation, October 1944",
+  "text": "The Germans leave Athens on 12 October; Western Crete and Milos hold out until May 1945.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1947-03-31",
+  "kind": "treaty",
+  "title": "The Dodecanese, 1947",
+  "text": "Italy cedes the islands by the Treaty of Paris. Greece takes over on 31 March 1947.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ },
+ {
+  "date": "1949-08-24",
+  "kind": "battle",
+  "title": "Vitsi and Grammos, August 1949",
+  "text": "The National Army takes the Democratic Army's last bases on the Albanian border; the civil war ends.",
+  "win": "Government victory",
+  "xy": [
+   175.6,
+   783.7
+  ],
+  "set15": 465
+ },
+ {
+  "date": "2026-10-27",
+  "kind": "end",
+  "title": "Today",
+  "text": "131,957 km². The borders have not changed since 1947. Faintly drawn: the lands once held or awarded and lost.",
+  "win": "",
+  "xy": null,
+  "set15": null
+ }
+]
